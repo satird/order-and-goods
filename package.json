@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "angular-datatable": "^2.2.1",
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0",
+    "rxjs-compat": "^6.6.7"
+  },
+  "devDependencies": {
+    "@types/datatables.net": "^1.10.19",
+    "@types/jquery": "^3.5.5"
+  }
+}
