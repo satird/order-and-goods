@@ -1,0 +1,3 @@
+[submodule "angularclient"]
+	path = angularclient
+	url = https://github.com/satird/angularclient-for-order-and-goods.git
