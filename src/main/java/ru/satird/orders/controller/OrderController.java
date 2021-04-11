@@ -11,7 +11,6 @@ import ru.satird.orders.service.OrderService;
 import java.util.List;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
 @RequestMapping(value = "/api")
 public class OrderController {
 
